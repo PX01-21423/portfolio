@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="400" height="300">
+  <defs>
+    <linearGradient id="grad4" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#06d6a0"/>
+      <stop offset="100%" stop-color="#83e8c9"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="300" fill="url(#grad4)"/>
+  <text x="200" y="155" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="rgba(255,255,255,0.9)">Design Sample 04</text>
+  <text x="200" y="180" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="rgba(255,255,255,0.7)">Replace with your own image</text>
+</svg>
