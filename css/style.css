@@ -203,7 +203,7 @@ ul { list-style: none; margin: 0; padding: 0; }
 .hero__bgtext span {
   font-family: var(--font-head);
   font-weight: 700;
-  font-size: clamp(60px, 15vw, 200px);
+  font-size: clamp(32px, 8vw, 130px);
   line-height: 0.95;
   color: transparent;
   -webkit-text-stroke: 2.5px rgba(10, 10, 10, 0.4);
